@@ -16,7 +16,7 @@ Expected Outcome:
 The idea is having a master branch from which 2 features branches will start (feature-1 and feature-2) at the same step.
 Each feature will be working on specific changes on the same files. 
 While merging, you will encounter merge conflicts (ex: changes in feature-1 of same line changed in feature-2) that you will be asked to solve to complete a successful merge.
-Tagging specific commits with its appropriate version (v0.7, v1.0 …) is also needed.
+Tagging specific commits with its appropriate version (v0.7, v1.0 â€¦) is also needed.
 In the end, one member of your team will fork the repository, make changes and send a pull request that you will accept and merge with the master branch.
 Results:
 The steps taken should be briefly described and presented along with your results by email [with the team members in CC].
@@ -26,7 +26,7 @@ Morning of Wednesday June 20.
 
  
 
-If you encounter any problem, don’t hesitate to contact me.
+If you encounter any problem, donâ€™t hesitate to contact me. I'm available every monday and wednesday from 13:00 till 16:00 p.m.
 
 
 Best Regards,
